@@ -1,1 +1,1 @@
-# etc-courses
+# otc-courses
